@@ -1,0 +1,149 @@
+#title
+{
+  font-family: 'Sansita Swashed', cursive;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 35px;
+  color: red;
+}
+
+#lens
+{
+  width: 100px;
+  height: 100px;
+}
+
+#vs
+{
+    color: red;
+    font-size: 22px;
+}
+
+#MobileNet
+{
+  background-color: rebeccapurple;
+  color: white;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  padding-top: 8px;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.test_1
+{
+  margin-top: 30px;
+  background-color: rgb(155, 155, 155);
+  color: white;
+  width: 1500px;
+  height: 450px;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px rgb(151, 151, 151);
+}
+
+.test_2
+{
+  margin-top: 30px;
+  background-color: rgb(155, 155, 155);
+  color: white;
+  width: 1500px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px rgb(151, 151, 151);
+}
+
+.test_3
+{
+  margin-top: 30px;
+  background-color: rgb(155, 155, 155);
+  color: white;
+  width: 1500px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px rgb(151, 151, 151);
+}
+
+.test_4
+{
+  margin-top: 30px;
+  background-color: rgb(155, 155, 155);
+  color: white;
+  width: 1500px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px rgb(151, 151, 151);
+}
+
+.test_5
+{
+  margin-top: 30px;
+  background-color: rgb(155, 155, 155);
+  color: white;
+  width: 1500;
+  padding-bottom: 30px;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 3px 5px 5px rgb(151, 151, 151);
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  bottom: 0;
+  line-height: 1px;
+  text-align: center;
+  background-color: rgb(230, 230, 230);
+  color: rgb(98, 98, 98);
+  width: 1600;
+}
+
+.img-responsive
+{
+  border-radius: 10px;
+}
+
+#Output
+{
+  background-color: white;
+  border-radius: 10px;
+  color: rgb(85, 85, 85);
+  font-size: 18px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#bold
+{
+  color: purple;
+}
+
+span
+{
+  color: red;
+  font-size: 20px;
+}
+
+label
+{
+  background-color: royalblue;
+  color: rgb(250, 246, 246);
+  font-size: 20px;
+  box-shadow: 5px 5px 30px gray;
+  height: 330px;
+  width: 800px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.highlight
+{
+  color: paleturquoise;
+  font-size: 21px;
+  font-weight: 600px;
+}
